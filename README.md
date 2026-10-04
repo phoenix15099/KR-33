@@ -3,15 +3,15 @@
 Adds the KR-33 Agni, a rank 3 A2A focused multi role jet.
 
 ### Credits:
-Phoenix1509: Design, 3D Assets, Implementation and texturing.
+Phoenix1509: design, 3D assets, implementation and texturing.
 
-KermiGodFrog: Music.
+KermiGodFrog: music.
 
-Javiairplane: Aircraft Internals.
+Javiairplane: aircraft internals.
 
-OliveFox: Demo Mission.
+OliveFox: demo mission.
 
-The beta testers: Testing.
+The beta testers: testing.
 
 You: for enjoying the mod.
 
