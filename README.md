@@ -1,6 +1,6 @@
 # KR-33 Agni
 ## Description
-Adds the KR-33 Agni. a rank 3 A2A focused multi role jet.
+Adds the KR-33 Agni, a rank 3 A2A focused multi role jet.
 
 ### Credits:
 Phoenix1509: Design, 3D Assets, Implementation and texturing.
